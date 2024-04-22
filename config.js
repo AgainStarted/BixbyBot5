@@ -7,18 +7,15 @@ global.botnumber = ""
 global.confirmCode = ""
 
 global.owner = [
-  ['xxxxxxxxxx', '𝐃𝚲𝐍𝕀𝚵𝐋͎💋', true],
-  ['xxxxxxxxxx',],
-  ['xxxxxxxxxx'],	
-  ['xxxxxxxxxx',],
-  ['xxxxxxxxxx'],
-  ['xxxxxxxxxx'],
+  ['393209387337', '💫͢≋𝓥𝓮𝓻𝓲𝓽𝓪𝓼-𝓜≋💫⁩', true],
+  ['393716463626'],
+  
 ] //Numero degli owner
 
 //────────────────────────────
 
-global.mods = ['xxxxxxxxxx'] 
-global.prems = ['xxxxxxxxxx', 'xxxxxxxxxx']
+global.mods = ['393209387337'] 
+global.prems = ['393209387337', '393716463626']
 
 //────────────────────────────
 
@@ -59,20 +56,20 @@ global.imagen4 = fs.readFileSync('./bixbyvision16.png')
 //────────────────────────────
 
 // Sticker WM (Nome del pacchetto degli sticker)
-global.packname = '𝐁𝐢𝐱𝐛𝐲𝐁𝐨𝐭'
+global.packname = '💫͢≋𝓥𝓮𝓻𝓲𝓽𝓪𝓼-𝐁𝐨𝐭≋💫'
 global.author = '𝐌𝐝'
 
 //────────────────────────────
 
 global.vs = '𝟐.𝟐'
 
-global.nomebot = '𝐁𝐢𝐱𝐛𝐲𝐁𝐨𝐭-𝐌𝐝'
+global.nomebot = '💫͢≋𝓥𝓮𝓻𝓲𝓽𝓪𝓼-𝐁𝐨𝐭≋💫'
 
 global.multiplier = 69 
 global.maxwarn = '4' 
 //────────────────────────────
 
-global.wm = '𝐁𝐢𝐱𝐛𝐲𝐁𝐨𝐭-𝐌𝐝'
+global.wm = '💫͢≋𝓥𝓮𝓻𝓲𝓽𝓪𝓼-𝐁𝐨𝐭≋💫'
 global.wait = 'ⓘ 𝐂𝐚𝐫𝐢𝐜𝐚𝐦𝐞𝐧𝐭𝐨 ...'
 
 //────────────────────────────
